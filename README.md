@@ -15,10 +15,19 @@
 ## 👨‍💻 About me
 
 - 🎓 Software Engineering student at **Astana IT University** (3rd year) and student at **Tomorrow School** in Astana Hub
+- 🌍 Exchange semester at **Schmalkalden University of Applied Sciences** (Germany), Apr – Aug 2026
+- 🔎 Open to internships and junior roles
 - 🧩 I design and ship whole products: web, mobile and desktop, from the idea to the release
 - 🚀 Currently building **[Ayeka](https://ayeka.app/)**, a macOS app, plus a restaurant booking system with an AI administrator and a voice dhikr counter
 - 🏁 I take part in hackathons and turn ideas into working products fast
 - 📫 Reach me on [Telegram](https://t.me/mirzhanm) or [LinkedIn](https://www.linkedin.com/in/mirzhan-myssyrgaliyev/)
+
+---
+
+## 💼 Experience
+
+- **Software Engineer**, AI Residence Kazakhstan (Nov 2025 – Feb 2026): shipped cross-platform mobile apps with React Native to the Apple App Store and built full-stack web apps (React / Next.js + Nest.js) with a Python speech recognition module, from concept to server deployment in a two-person team
+- **IT Specialist**, Smart Bus PV LLP (Mar 2026 – Sep 2026, remote): built web interfaces for a smart urban transportation platform (React, Next.js) and REST backend services (Nest.js, PostgreSQL), and handled deployment and production maintenance on remote servers
 
 ---
 
@@ -28,6 +37,7 @@
 - 🎓 **EPAM Tech Orda**: completed *Java Development with AI Tools* (Nov 2025 – Jun 2026)
 - 🏁 **Hackathons:** Business Cup 2.0 (24 h, Nazarbayev University), Datathon'26, Datasaur'26, Grand Mobile × Decentrathon 6.0
 - 🔬 **Research:** experiment on catastrophic forgetting in small LLMs, full fine-tuning vs LoRA
+- 📜 **Certifications:** AWS Academy Cloud Foundations, Google Prompt Design in Vertex AI, Cisco CCNA: Introduction to Networks and IT Essentials, Huawei AI Technology and Applications
 
 ---
 
@@ -51,7 +61,7 @@
 ## 🔥 Tech stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,swift,react,nextjs,nodejs,postgres,docker,flutter,solidity,git&perline=7" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,swift,react,nextjs,nodejs,postgres,docker,flutter,solidity,git,nestjs,mongodb,go,aws&perline=9" alt="Tech stack" />
 </p>
 
 ---
