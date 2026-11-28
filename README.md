@@ -71,6 +71,6 @@
 ## 📊 GitHub stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=astmirzhan&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astmirzhan&langs_count=8&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" height="180" />
+<img src="./profile/stats.svg" alt="GitHub Stats" height="180" />
+<img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
 </div>
