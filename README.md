@@ -35,7 +35,7 @@
 
 - 📦 **Ayeka 1.4**: live macOS app with its own website and domain
 - 🎓 **EPAM Tech Orda**: completed *Java Development with AI Tools* (Nov 2025 – Jun 2026)
-- 🏁 **Hackathons:** Business Cup 2.0 (24 h, Nazarbayev University), Datathon'26, Datasaur'26, Grand Mobile × Decentrathon 6.0
+- 🏁 **Hackathons:** Órleu Hack 2026, BCC-HUB × MNU FinTech Hackathon, Business Cup 2.0 (24 h, Nazarbayev University), Datathon'26, Datasaur'26, Grand Mobile × Decentrathon 6.0
 - 🔬 **Research:** experiment on catastrophic forgetting in small LLMs, full fine-tuning vs LoRA
 - 📜 **Certifications:** AWS Academy Cloud Foundations, Google Prompt Design in Vertex AI, Cisco CCNA: Introduction to Networks and IT Essentials, Huawei AI Technology and Applications
 
@@ -46,6 +46,8 @@
 | Project | What it is | Stack | Links |
 |---|---|---|---|
 | **Ayeka** | Face unlock and a Dynamic Island for the Mac notch: music, clipboard, shelf, calendar. Runs fully on-device | Swift, SwiftUI | [ayeka.app](https://ayeka.app/) |
+| **TripDrip** | Team project (3 people), built for Órleu Hack 2026: travel PWA for Kazakhstan. Help from verified locals, an offline SOS assistant and phrasebook, routes with coins and partner promo codes, in English, Russian and Kazakh | Go, PostgreSQL, React, TypeScript | [Code](https://github.com/astmirzhan/TripDrip) · [Demo](https://tripdrip.macintsh.tech) |
+| **BCC Requirements Validator** | Built for the BCC-HUB × MNU FinTech Hackathon: an AI agent that checks a requirements document against ISO/IEC/IEEE 29148 and IEEE 830 and writes a report with every defect tied to a line | Python, Gemini, Ollama | [Code & demo](https://github.com/astmirzhan/BCC-Requirements-Validator#-demo-video) |
 | **Chill Pub** | Table booking and an AI administrator in WhatsApp for a restaurant | TypeScript, Fastify, Prisma, React, PostgreSQL | private |
 | **K7** | Team project (2 people), built for Business Cup 2.0 (24 h): turn goals into city quests with AI roadmaps, nearby buddies, co-op stages and badges | Next.js, Supabase, Stripe, Gemini | [Code](https://github.com/astmirzhan/K7) · [Demo](https://k7-indol.vercel.app) |
 | **Bloom** | Convert, crop, compress and share files on a Mac from a glass wheel. Free, offline, open source | Swift | [Code](https://github.com/astmirzhan/Bloom) |
